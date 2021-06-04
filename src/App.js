@@ -124,7 +124,7 @@ class App extends React.Component {
     const { form, formErrors } = this.state;
     return (
       <div className="my-account">
-        <h3 className="title"><img width="40" src={logo} alt="Logo" />My Account 1</h3>
+        <h3 className="title"><img width="40" src={logo} alt="Logo" />My Account</h3>
         <div className="card-info">
           <Row >
             <Col >
