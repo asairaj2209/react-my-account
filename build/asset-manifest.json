@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.css",
+    "main.js": "/static/js/main.js",
+    "main.js.map": "/static/js/main.js.map",
+    "assets/react/logo.svg": "/assets/react/logo.svg",
+    "index.html": "/index.html",
+    "precache-manifest.83cd3991d998f63560d118bc65a22ed6.js": "/precache-manifest.83cd3991d998f63560d118bc65a22ed6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.css.map": "/static/css/main.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
